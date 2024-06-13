@@ -17,13 +17,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/imputnet/cobalt.git"
+        "url": "git+https://github.com/ispbridge/downloader.git"
     },
     "license": "AGPL-3.0",
     "bugs": {
-        "url": "https://github.com/imputnet/cobalt/issues"
+        "url": "https://github.com/ispbridge/issues"
     },
-    "homepage": "https://github.com/imputnet/cobalt#readme",
+    "homepage": "https://github.com/ispbridge/#readme",
     "dependencies": {
         "content-disposition-header": "0.6.0",
         "cors": "^2.8.5",
