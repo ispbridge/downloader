@@ -156,7 +156,7 @@
         "SettingsYoutubeDub": "use browser language",
         "SettingsYoutubeDubDescription": "uses your browser's default language for youtube dubbed audio tracks. works even if this ui isn't translated to your language.",
         "ErrorInvalidContentType": "invalid content type header",
-        "UpdateOneMillion": "1 million users and blazing speed",
+        "UpdateOneMillion": "enjoy unlimited downlad at superfast",
         "ErrorYTAgeRestrict": "this youtube video is age-restricted, so i can't see it. try another one!",
         "ErrorYTLogin": "couldn't get this youtube video because it requires an account to view.\n\nthis limitation is done by google to seemingly stop scraping, affecting all 3rd party tools and even their own clients.\n\ntry again, but if issue persists, {ContactLink}.",
         "ErrorYTRateLimit": "i got rate limited by youtube. try again in a few seconds, but if issue persists, {ContactLink}."
