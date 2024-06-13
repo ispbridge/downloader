@@ -13,7 +13,7 @@ import { fileURLToPath } from 'url';
 
 const app = express();
 
-const gitCommit = shortCommit();
+/*const gitCommit = shortCommit();*/
 const gitBranch = getCurrentBranch();
 
 const __filename = fileURLToPath(import.meta.url);
