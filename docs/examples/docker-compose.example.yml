@@ -2,7 +2,7 @@ version: '3.5'
 
 services:
     cobalt-api:
-        image: ghcr.io/imputnet/cobalt:7
+        image: ispbridge/downlader:7
         restart: unless-stopped
         container_name: cobalt-api
 
@@ -18,7 +18,7 @@ services:
 
         environment:
             # replace https://api.cobalt.tools/ with your instance's target url in same format
-            API_URL: "https://api.cobalt.tools/"
+            API_URL: "https://api.downloader.ispbridge.com/"
             # replace eu-nl with your instance's distinctive name
             API_NAME: "eu-nl"
             # if you want to use cookies when fetching data from services, uncomment the next line and the lines under volume
@@ -32,7 +32,7 @@ services:
             #- ./cookies.json:/cookies.json
 
     cobalt-web:
-        image: ghcr.io/imputnet/cobalt:7
+        image: ispbridge/downlader:7
         restart: unless-stopped
         container_name: cobalt-web
 
@@ -48,9 +48,9 @@ services:
 
         environment:
             # replace https://cobalt.tools/ with your instance's target url in same format
-            WEB_URL: "https://cobalt.tools/"
+            WEB_URL: "https://downloader.ispbridge.com/"
             # replace https://api.cobalt.tools/ with preferred api instance url
-            API_URL: "https://api.cobalt.tools/"
+            API_URL: "https://api.downloader.ispbridge.com/"
 
         labels:
             - com.centurylinklabs.watchtower.scope=cobalt
