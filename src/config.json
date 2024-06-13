@@ -5,54 +5,54 @@
             "default": {
                 "email": {
                     "emoji": "📧",
-                    "url": "mailto:support@cobalt.tools",
-                    "name": "support@cobalt.tools"
+                    "url": "mailto:info@ispbridge.com",
+                    "name": "email support"
                 },
                 "twitter": {
                     "emoji": "🐦",
-                    "url": "https://twitter.com/justusecobalt",
-                    "name": "@justusecobalt"
+                    "url": "https://twitter.com/",
+                    "name": "nothing on social media"
                 },
                 "discord": {
                     "emoji": "👾",
-                    "url": "https://discord.gg/pQPt8HBUPu",
-                    "name": "cobalt discord server"
+                    "url": "https://discord.gg/",
+                    "name": "nor in discord server"
                 }
             },
             "ru": {
                 "telegram": {
                     "emoji": "📬",
-                    "url": "https://t.me/justusecobalt_ru",
-                    "name": "канал в telegram"
+                    "url": "https://t.me/",
+                    "name": "nor in telegram"
                 },
                 "email": {
                     "emoji": "📧",
-                    "url": "mailto:support@cobalt.tools",
-                    "name": "support@cobalt.tools"
+                    "url": "mailto:info@ispbridge.com",
+                    "name": "support"
                 }
             }
         }
     },
     "donations": {
         "crypto": {
-            "monero": "4B1SNB6s8Pq1hxjNeKPEe8Qa8EP3zdL16Sqsa7QDoJcUecKQzEj9BMxWnEnTGu12doKLJBKRDUqnn6V9qfSdXpXi3Nw5Uod",
-            "litecoin": "ltc1qvp0xhrk2m7pa6p6z844qcslfyxv4p3vf95rhna",
-            "ethereum": "0x4B4cF23051c78c7A7E0eA09d39099621c46bc302",
-            "usdt-erc20": "0x4B4cF23051c78c7A7E0eA09d39099621c46bc302",
-            "usdt-trc20": "TVbx7YT3rBfu931Gxko6pRfXtedYqbgnBB",
-            "bitcoin": "bc1qlvcnlnyzfsgnuxyxsv3k0p0q0yln0azjpadyx4",
-            "bitcoin-alt": "18PKf6N2cHrmSzz9ZzTSvDd2jAkqGC7SxA",
-            "ton": "UQA3SO-hHZq1oCCT--u6or6ollB8fd2o52aD8mXiLk9iDZd3"
+            "monero": "We dont",
+            "litecoin": "need",
+            "ethereum": "your",
+            "usdt-erc20": "donation",
+            "usdt-trc20": "to",
+            "bitcoin": "run",
+            "bitcoin-alt": "this",
+            "ton": "server"
         },
         "links": {
-            "boosty": "https://boosty.to/wukko/donate"
+            "boosty": "https://ispbridge.com"
         }
     },
     "links": {
         "saveToGalleryShortcut": "https://www.icloud.com/shortcuts/14e9aebf04b24156acc34ceccf7e6fcd",
         "saveToFilesShortcut": "https://www.icloud.com/shortcuts/2134cd9d4d6b41448b2201f933542b2e",
-        "statusPage": "https://status.cobalt.tools/",
-        "troubleshootingGuide": "https://github.com/imputnet/cobalt/blob/current/docs/troubleshooting.md"
+        "statusPage": "https://status.downlaod.ispbridge.com",
+        "troubleshootingGuide": "https://downlaod.ispbridge.com"
     },
     "celebrations": {
         "01-01": "🎄",
@@ -91,9 +91,9 @@
         "gif": ["-vf", "scale=-1:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse", "-loop", "0"]
     },
     "sponsors": [{
-        "name": "royale",
-        "fullName": "RoyaleHosting",
-        "url": "https://royalehosting.net/?partner=cobalt",
+        "name": "ISP",
+        "fullName": "ISPBridge.com",
+        "url": "https://ISPBridge.com",
         "logo": {
             "width": 605,
             "height": 136,
