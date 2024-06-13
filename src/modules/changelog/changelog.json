@@ -1,14 +1,14 @@
 {
     "current": {
-        "version": "7.14",
+        "version": "000",
         "date": "2024",
         "title": "Helping humankind",
         "banner": {
-            "file": "millionusers.webp",
+            "file": "",
             "alt": "",
             "width": 1736,
             "height": 1440
         },
-        "content": "Enjou"
+        "content": "Enjoy"
     }
 }
